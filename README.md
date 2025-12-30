@@ -37,11 +37,12 @@
   <h3>All algorithms implemented in Python - for education 📚</h3>
 </div>
 
-Implementations are for learning purposes only. They may be less efficient than the implementations in the Python standard library. Use them at your discretion.
+These implementations are intended for learning purposes only. They may be less efficient than those found in the Python standard library. Please use them at your discretion.
 
 ## 🚀 Getting Started
 
-📋 Read through our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
+📋 Please read through our [Contribution Guidelines](CONTRIBUTING.md) before contributing.
+
 
 ## 🌐 Community Channels
 
